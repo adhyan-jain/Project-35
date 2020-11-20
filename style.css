@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  
+  border: 15px solid yellow;
+  margin-top:5%;
+  margin-left: 5%;
+}
